@@ -4,7 +4,7 @@ Example demonstrating a color issue with [React Native][react-native]
 and [React Navigation][react-navigation].
 
 ```
-$ npm install
+$ yarn install
 $ react-native run-ios
 ```
 
